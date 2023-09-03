@@ -10,7 +10,7 @@ This is a Python script that utilizes OpenCV to detect faces, eyes, and smiles i
 ## Installation
 
 1. Clone the repository:
-   git clone
+   git clone https://github.com/fluffy0-0/Smile-Detection.git
 
 2. Install the required dependencies:
    pip install opencv-python
